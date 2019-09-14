@@ -25,7 +25,7 @@ We believe that software is better when it is produced in the commons.
 We believe that sustainable communities are based on just and fair institutions.
 We value the ability of every person to use the software to better their own lives.
 
-##Code of Conduct
+## Code of Conduct
 To ensure that all people are welcome, treated fairly and safely, this community has a code of conduct, published at [CODE OF CONDUCT]. It applies equally to all members of the community, both on-line and in person. Membership and participation in the community requires following the Code of Conduct.
 
 ## Licensing, Copyrights, Patents, and Trademarks
