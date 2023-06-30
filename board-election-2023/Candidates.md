@@ -9,7 +9,7 @@ If you're applying as a candidate, we'd love to share your introduction with the
 That said, here are some points of attention:
 
 - The document will be public.
-- Integrity and transparancy are important. Consider using your real name and to mention any relevant interests (ex: contracts or employment).
+- Integrity and transparency are important. Consider using your real name and to mention any relevant interests (ex: contracts or employment).
 - Not everyone in the Working Group may be aware of what you do. It's worth highlighting even if you've been part of the community.
 
 ## Robin van Boven
@@ -41,7 +41,7 @@ My strengths and what I would bring to the Board are:
 I believe my skills are best used to strengthen what we do internally. Improving the foundations for other contributors to rely on. Some areas I would work on if elected for another term:
 
 - Investing in the new governance model, making sure we use it effectively.
-- A campaign to improve transparancy on all fronts, including a much more visible Board.
+- A campaign to improve transparency on all fronts, including a much more visible Board.
 - Make it significantly easier for the Working Group to submit proposals to the Board.
 
 A strong internal focus for me personally. Of course there is more to discuss, so I'd be happy to keep sharing my opinions and support other initiatives.
