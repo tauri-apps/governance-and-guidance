@@ -2,6 +2,16 @@
 
 Candidates for the [2023 Tauri Board elections](README.md).
 
+### Applying?
+
+If you're applying as a candidate, we'd love to share your introduction with the voting Working Group members. You're welcome to use the existing introductions as reference. There is no mandatory format, so feel free to write in your own style!
+
+That said, here are some points of attention:
+
+- The document will be public.
+- Integrity and transparancy are important. Consider using your real name and to mention any relevant interests (ex: contracts or employment).
+- Not everyone in the Working Group may be aware of what you do. It's worth highlighting even if you've been part of the community.
+
 ## Robin van Boven
 
 <img alt="Robin avatar" src="https://avatars.githubusercontent.com/u/497556?v=4&s=200" width="100" />
