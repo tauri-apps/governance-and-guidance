@@ -15,8 +15,10 @@ Results: on or before July 16, 2023
 
 ## Candidates
 
+- [Zack Chapple][zach-chapple] - _New Candidate._
 - [Robin van Boven][robin-van-boven] - _Candidate for a second term._
 
+[zach-chapple]: Candidates.md#zach-chapple "Candidates.md - Zack Chapple"
 [robin-van-boven]: Candidates.md#robin-van-boven "Candidates.md - Robin van Boven"
 
 ## More information
