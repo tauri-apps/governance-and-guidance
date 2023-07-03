@@ -15,15 +15,19 @@ Results: on or before July 16, 2023
 
 ## Candidates
 
+- [Bill Avery][bill-avery] - _New Candidate._
+- [Jacob Bolda][jacob-bolda] - _Candidate for a second term._
 - [Zack Chapple][zach-chapple] - _New Candidate._
 - [Robin van Boven][robin-van-boven] - _Candidate for a second term._
 
+[bill-avery]: Candidates.md#bill-avery "Candidates.md - Bill Avery"
+[jacob-bolda]: Candidates.md#jacob-bolda "Candidates.md - Jacob Bolda"
 [zach-chapple]: Candidates.md#zach-chapple "Candidates.md - Zack Chapple"
 [robin-van-boven]: Candidates.md#robin-van-boven "Candidates.md - Robin van Boven"
 
 ## More information
 
-*We're hoping to provide clear and complete information. If you have any questions after reading this section, don't hesitate to ask!*
+_We're hoping to provide clear and complete information. If you have any questions after reading this section, don't hesitate to ask!_
 
 ### Available positions
 
@@ -40,7 +44,7 @@ In other words candidates will not be appointed "by default" to fill as many sea
 
 Voters can indicate two things with their vote. For every candidate, whether they're for or against that candidate becoming a Board Director. And between the candidates they are for, listing those candidates in order of preference.
 
-Each candidate needs to meet a "confidence threshold", meaning at least 50% of voters have voted *for* that candidate. If there are more candidates that meet this threshold than seats, a [scoring system] is used to find the candidates that *got the greatest preference*.
+Each candidate needs to meet a "confidence threshold", meaning at least 50% of voters have voted _for_ that candidate. If there are more candidates that meet this threshold than seats, a [scoring system] is used to find the candidates that _got the greatest preference_.
 
 ### Can someone run for multiple terms?
 
