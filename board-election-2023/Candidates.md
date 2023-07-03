@@ -101,7 +101,7 @@ A strong internal focus for me personally. Of course there is more to discuss, s
 
 Hello Tauri Community,
 
-I'm david [@lemarier][github-lemarier], hailing from the beautiful Quebec, Canada. As a French Canadian, I have a deep-rooted love for my culture and heritage. Beyond my love for technology, I am an ardent outdoor enthusiast. Whether it's hunting, fishing, or gardening, being close to nature and striving for self-sufficiency is a passion of mine Alongside my outdoor hobbies, another fervor that is close to my heart is contributing to open source projects. It is through this passion that I found Tauri.
+I'm david [@lemarier][github-lemarier], hailing from the beautiful Quebec, Canada. As a French Canadian, I have a deep-rooted love for my culture and heritage. Beyond my love for technology, I am an ardent outdoor enthusiast. Whether it's hunting, fishing, or gardening, being close to nature and striving for self-sufficiency is a passion of mine. Alongside my outdoor hobbies, another fervor that is close to my heart is contributing to open source projects. It is through this passion that I found Tauri.
 
 Now, a fervent advocate and contributor to the Tauri project since 2020, my journey in the tech space has been defined by an insatiable curiosity and drive to improve upon the status quo. My association with Tauri has been one of the most rewarding experiences as it has allowed me to apply my acumen in Rust programming and desktop app development to an innovative project.
 
