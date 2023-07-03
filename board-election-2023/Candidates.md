@@ -96,3 +96,27 @@ A strong internal focus for me personally. Of course there is more to discuss, s
 [statutes]: https://dracc.commonsconservancy.org/0035/ "Statutes of Tauri"
 [bus factor]: https://en.wikipedia.org/wiki/Bus_factor "Bus factor - Wikipedia"
 [governance]: https://tauri.app/about/governance "Tauri Governance"
+
+## David Lemarier
+
+Hello Tauri Community,
+
+I'm david [@lemarier][github-lemarier], hailing from the beautiful Quebec, Canada. As a French Canadian, I have a deep-rooted love for my culture and heritage. Beyond my love for technology, I am an ardent outdoor enthusiast. Whether it's hunting, fishing, or gardening, being close to nature and striving for self-sufficiency is a passion of mine Alongside my outdoor hobbies, another fervor that is close to my heart is contributing to open source projects. It is through this passion that I found Tauri.
+
+Now, a fervent advocate and contributor to the Tauri project since 2020, my journey in the tech space has been defined by an insatiable curiosity and drive to improve upon the status quo. My association with Tauri has been one of the most rewarding experiences as it has allowed me to apply my acumen in Rust programming and desktop app development to an innovative project.
+
+With deep knowledge of the inner workings of Tauri, I've been actively involved in the core development of various components. I played a pivotal role in Tauri's fork of winit, which later became known as [tao][github-tao], where I was instrumental in building the first window/app menu and tray. I also ventured into uncharted territories with the development of the first [wry iOS][github-wry-ios-poc] proof of concept.
+
+Drawing upon my prior experience, where I led an open-source project that was downloaded hundreds of millions of times, I contributed significantly to the Tauri updater. Those early days in desktop app development were enlightening, as I worked closely with the NWjs team (formerly node-webkit) even before Electron came into existence. Through a series of trials and errors, I learned valuable lessons that have since shaped my contributions to Tauri.
+
+My dedication to the project is not just about codes and components; it's about fostering a community that's innovative, collaborative, and forward-thinking. Tauri is not just a project, it is an embodiment of possibilities that could redefine the way we approach web technology and application development. It is for this reason that I am seeking a position on the Tauri board. Through this role, I want to ensure that Tauri continues to thrive as a project and as a community.
+
+I am excited about the possibility of serving the Tauri community in a more significant capacity and am committed to ensuring the project's goals are in alignment with the needs and aspirations of the community. Together, let's shape the future of Tauri!
+
+Thank you for considering my candidacy.
+
+David
+
+[github-lemarier]: https://github.com/lemarier "lemarier - GitHub"
+[github-tao]: https://github.com/tauri-apps/tao "tao - Github"
+[github-wry-ios-poc]: https://github.com/lemarier/wry-ios-poc-new "WRY iOS POC - Github"
