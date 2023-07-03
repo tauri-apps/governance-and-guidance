@@ -17,12 +17,12 @@ Results: on or before July 16, 2023
 
 - [Bill Avery][bill-avery] - _New Candidate._
 - [Jacob Bolda][jacob-bolda] - _Candidate for a second term._
-- [Zack Chapple][zach-chapple] - _New Candidate._
+- [Zack Chapple][zack-chapple] - _New Candidate._
 - [Robin van Boven][robin-van-boven] - _Candidate for a second term._
 
 [bill-avery]: Candidates.md#bill-avery "Candidates.md - Bill Avery"
 [jacob-bolda]: Candidates.md#jacob-bolda "Candidates.md - Jacob Bolda"
-[zach-chapple]: Candidates.md#zach-chapple "Candidates.md - Zack Chapple"
+[zack-chapple]: Candidates.md#zack-chapple "Candidates.md - Zack Chapple"
 [robin-van-boven]: Candidates.md#robin-van-boven "Candidates.md - Robin van Boven"
 
 ## More information
