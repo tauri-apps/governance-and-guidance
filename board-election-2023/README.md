@@ -15,11 +15,13 @@ Results: on or before July 16, 2023
 
 ## Candidates
 
+- [David Lemarier][david-lemarier] - _Candidate for a second term._
 - [Bill Avery][bill-avery] - _New Candidate._
 - [Jacob Bolda][jacob-bolda] - _Candidate for a second term._
 - [Zack Chapple][zack-chapple] - _New Candidate._
 - [Robin van Boven][robin-van-boven] - _Candidate for a second term._
 
+[david-lemarier]: Candidates.md#david-lemarier "Candidates.md - David Lemarier"
 [bill-avery]: Candidates.md#bill-avery "Candidates.md - Bill Avery"
 [jacob-bolda]: Candidates.md#jacob-bolda "Candidates.md - Jacob Bolda"
 [zack-chapple]: Candidates.md#zack-chapple "Candidates.md - Zack Chapple"
