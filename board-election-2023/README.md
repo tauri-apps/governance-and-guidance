@@ -38,21 +38,28 @@ This election determines who is appointed those 5 seats for the next 2 years (a 
 
 ### Will all seats be filled?
 
-The minimum is 3 Directors. So not all 5 seats have to be filled. Only when there are enough candidates and _at least half_ of the voters indicate they're _for_ appointing a candidate, would a seat be filled.
+The minimum is 3 Directors total. So not all 5 seats have to be filled. Only when _at least half_ of the voters indicate they're _for_ appointing a candidate, would a seat be filled.
 
 In other words candidates will not be appointed "by default" to fill as many seats as possible. Only when they have the confidence of voters.
 
 ### How does voting work?
 
-Voters can indicate two things with their vote. For every candidate, whether they're for or against that candidate becoming a Board Director. And between the candidates they are for, listing those candidates in order of preference.
+In this election we have 5 seats available and 5 candidates. For each candidate voters indicate whether they're for or against them becoming a Board Director. Each candidate needs to meet a "confidence threshold", meaning at least (`>=`) 50% of voters have voted _"Yes"_ for that candidate.
 
-Each candidate needs to meet a "confidence threshold", meaning at least 50% of voters have voted _for_ that candidate. If there are more candidates that meet this threshold than seats, a [scoring system] is used to find the candidates that _got the greatest preference_.
+You can use the voting tool that lets you drag and drop candidates to create your vote.
+To submit your vote, it generates an email for you to send with a human and machine readable format. When the voting period ends, those votes counted and compiled into a result.
 
 ### Can someone run for multiple terms?
 
 As per [Tauri's statutes][statutes-governance]:
 
 > Directors are permitted to seek office for multiple terms, however, when running against other candidates the amount of terms they have consecutively served is deducted from the votes cast in their favour. This provides a balance between continuity, equal opportunities and renewal of qualities and competences.
+
+### What about order of preference?
+
+This year the election happens to have 5 seats and 5 candidates. So only confidence needs to be considered.
+
+You may have encountered technical discussions talking about ordering by preference and using this to select the most preferred candidates. That aspect of the voting system is intended to handle a situation where there are _more candidates than seats_. Because we know that is not the case for this election, sorting by preference becomes unnecessary.
 
 ### Reviewing the election
 
