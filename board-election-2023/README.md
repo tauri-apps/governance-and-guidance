@@ -47,7 +47,7 @@ In other words candidates will not be appointed "by default" to fill as many sea
 In this election we have 5 seats available and 5 candidates. For each candidate voters indicate whether they're for or against them becoming a Board Director. Each candidate needs to meet a "confidence threshold", meaning at least (`>=`) 50% of voters have voted _"Yes"_ for that candidate.
 
 You can use the voting tool that lets you drag and drop candidates to create your vote.
-To submit your vote, it generates an email for you to send with a human and machine readable format. When the voting period ends, those votes counted and compiled into a result.
+To submit your vote, it generates an email for you to send with a human and machine readable format. When the voting period ends, those votes are counted and compiled into a result.
 
 ### Can someone run for multiple terms?
 
