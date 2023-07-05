@@ -7,6 +7,10 @@ This year is the first election where we **invite Working Group members** to cas
 
 **Places you can reach out: [Discussion #31][discussion-31] | [`#general-wg`][discord-general-wg]**
 
+## Vote here: https://tauri-apps.github.io/board-voter/
+
+**You can vote until Wednesday July 12th, 2023**
+
 ## Dates
 
 Candidate applications: until July 2nd, 2023<br>
