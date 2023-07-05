@@ -2,16 +2,6 @@
 
 Candidates for the [2023 Tauri Board elections](README.md).
 
-### Applying?
-
-If you're applying as a candidate, we'd love to share your introduction with the voting Working Group members. You're welcome to use the existing introductions as reference. There is no mandatory format, so feel free to write in your own style!
-
-That said, here are some points of attention:
-
-- The document will be public.
-- Integrity and transparency are important. Consider using your real name and to mention any relevant interests (ex: contracts or employment).
-- Not everyone in the Working Group may be aware of what you do. It's worth highlighting even if you've been part of the community.
-
 ## Bill Avery
 
 I live in Redmond, WA (USA). My wife and I have two kids, one in high school and the other in college. I am fortunate to have a job that I love doing writing code, so much so that I spend quite a bit of my free time working on OSS projects. Besides OSS projects, I also like to play games on my PC and viola in a community orchestra.
