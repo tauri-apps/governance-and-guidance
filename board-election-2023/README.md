@@ -9,7 +9,7 @@ This year is the first election where we **invite Working Group members** to cas
 
 ## Vote here: https://tauri-apps.github.io/board-voter/
 
-**You can vote untill Wednesday July 12th, 2023**
+**You can vote until Wednesday July 12th, 2023**
 
 ## Dates
 
