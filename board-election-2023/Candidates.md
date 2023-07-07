@@ -89,6 +89,8 @@ A strong internal focus for me personally. Of course there is more to discuss, s
 
 ## David Lemarier
 
+<img alt="lemarier avatar" src="https://avatars.githubusercontent.com/u/22237916?v=4&s=200" width="100" />
+
 Hello Tauri Community,
 
 I'm david [@lemarier][github-lemarier], hailing from the beautiful Quebec, Canada. As a French Canadian, I have a deep-rooted love for my culture and heritage. Beyond my love for technology, I am an ardent outdoor enthusiast. Whether it's hunting, fishing, or gardening, being close to nature and striving for self-sufficiency is a passion of mine. Alongside my outdoor hobbies, another fervor that is close to my heart is contributing to open source projects. It is through this passion that I found Tauri.
