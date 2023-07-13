@@ -7,11 +7,29 @@ This year is the first election where we **invite Working Group members** to cas
 
 **Places you can reach out: [Discussion #31][discussion-31] | [`#general-wg`][discord-general-wg]**
 
-## Result pending
+## Election Result
 
-_The vote is currently closed, after Wednesday July 12th, 2023_.
+**All candidates met the theshold and were elected!** 🎉
 
-Results will be broadcasted and included here, on or before July 16, 2023.
+We received **15 votes**. Meaning `>= 8` votes is the confidence threshold.
+
+| Name            | Elected | Positive votes | Threshold |
+| --------------- | :-----: | -------------: | --------: |
+| David Lemarier  | **Yes** |             15 |         8 |
+| Jacob Bolda     | **Yes** |             15 |         8 |
+| Robin van Boven | **Yes** |             15 |         8 |
+| Zack Chapple    | **Yes** |             12 |         8 |
+| Bill Avery      | **Yes** |             10 |         8 |
+
+- _Raw votes: [`votes.ndjson`](./votes.ndjson)_
+- _Review: https://github.com/tauri-apps/governance-and-guidance/pull/38_
+
+Taking as reference, currently 46 people (and 1 bot) have the Discord `working-group` role.
+A ~33% turnout for the vote based on that number.
+
+The official end of term for the current Directors is _on July 16th_. After this and after making sure they've signed [the Plege][tcc-plege] the new Directors can take office.
+
+[tcc-plege]: https://dracc.commonsconservancy.org/0016/
 
 ## Dates
 
