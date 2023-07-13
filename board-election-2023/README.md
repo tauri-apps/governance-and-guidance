@@ -9,7 +9,7 @@ This year is the first election where we **invite Working Group members** to cas
 
 ## Election Result
 
-**All candidates met the theshold and were elected!** 🎉
+**All candidates met the threshold and were elected!** 🎉
 
 We received **15 votes**. Meaning `>= 8` votes is the confidence threshold.
 
@@ -27,7 +27,7 @@ We received **15 votes**. Meaning `>= 8` votes is the confidence threshold.
 Taking as reference, currently 46 people (and 1 bot) have the Discord `working-group` role.
 A ~33% turnout for the vote based on that number.
 
-The official end of term for the current Directors is _on July 16th_. After this and after making sure they've signed [the Plege][tcc-plege] the new Directors can take office.
+The official end of term for the current Directors is _on July 16th_. After this and after making sure they've signed [the Pledge][tcc-plege] the new Directors can take office.
 
 [tcc-plege]: https://dracc.commonsconservancy.org/0016/
 
