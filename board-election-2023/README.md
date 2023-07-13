@@ -7,9 +7,11 @@ This year is the first election where we **invite Working Group members** to cas
 
 **Places you can reach out: [Discussion #31][discussion-31] | [`#general-wg`][discord-general-wg]**
 
-## Vote here: https://tauri-apps.github.io/board-voter/
+## Result pending
 
-**You can vote until Wednesday July 12th, 2023**
+_The vote is currently closed, after Wednesday July 12th, 2023_.
+
+Results will be broadcasted and included here, on or before July 16, 2023.
 
 ## Dates
 
