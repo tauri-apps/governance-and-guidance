@@ -21,8 +21,8 @@ The official end of term for the current Directors is _on July 16th_.
 
 ## Dates
 
-Candidate applications: until July 5nd, 2024
-Voting dates: July 7th through July 12th, 2024
+Candidate applications: until July 5nd, 2024<br>
+Voting dates: July 7th through July 12th, 2024<br>
 Results: on or before July 16, 2024
 
 ## Candidates
