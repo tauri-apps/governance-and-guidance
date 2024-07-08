@@ -15,7 +15,6 @@ We are **inviting Working Group members** to cast their vote on which candidates
 | ---------------------- | :---------: | -------------: | --------: |
 | Daniel Thompson-Yvetot | **Pending** |              - |         - |
 | Lucas Nogueira         | **Pending** |              - |         - |
-| _New Candidates?_      | **Pending** |              - |         - |
 
 The official end of term for the current Directors is _on July 16th_.
 
