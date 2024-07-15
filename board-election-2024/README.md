@@ -9,14 +9,24 @@ We are **inviting Working Group members** to cast their vote on which candidates
 
 ## Election Result
 
-**Pending**
+**All candidates met the threshold and were elected!** 🎉
 
-| Name                   |   Elected   | Positive votes | Threshold |
-| ---------------------- | :---------: | -------------: | --------: |
-| Daniel Thompson-Yvetot | **Pending** |              - |         - |
-| Lucas Nogueira         | **Pending** |              - |         - |
+We received **14 votes**, all positive for both candidates.
 
-The official end of term for the current Directors is _on July 16th_.
+| Name                   | Elected | Positive votes |
+| ---------------------- | :-----: | -------------: |
+| Daniel Thompson-Yvetot | **Yes** |             14 |
+| Lucas Nogueira         | **Yes** |             14 |
+
+- _Raw votes: [`votes.ndjson`](./votes.ndjson)_
+- _Review: https://github.com/tauri-apps/governance-and-guidance/pull/57_
+
+Taking as reference, currently 50 people (and 1 bot) have the Discord `working-group` role.
+A 28% turnout for the vote based on that number.
+
+The official end of term for the current Directors is _on July 16th_. Both candidates are uncumbants who have already signed [the Pledge][tcc-plege].
+
+[tcc-plege]: https://dracc.commonsconservancy.org/0016/
 
 ## Dates
 
@@ -49,7 +59,7 @@ In other words candidates will not be appointed "by default" to fill as many sea
 
 ### How does voting work?
 
-In this election we have 2 seats available and ??? candidates. For each candidate voters indicate whether they're for or against that candidate becoming a Board Director. Each candidate needs to meet a "confidence threshold", meaning at least (`>=`) 50% of voters have voted _"Yes"_ for that candidate.
+In this election we have 2 seats available and 2 candidates. For each candidate voters indicate whether they're for or against that candidate becoming a Board Director. Each candidate needs to meet a "confidence threshold", meaning at least (`>=`) 50% of voters have voted _"Yes"_ for that candidate.
 
 You can use the voting tool that lets you drag and drop candidates to create your vote.
 To submit your vote, it generates an email for you to send with a human and machine readable format. When the voting period ends, those votes are counted and compiled into a result.
