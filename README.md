@@ -1,7 +1,7 @@
 # Governance and Guidance
 
-## Current: [Tauri Board Election 2023](board-election-2023/README.md)
+## Current: [Tauri Board Election 2025](board-election-2025/README.md)
 
 ## Documents
 
-- [Domains within Tauri](governance-model/Domains.md)
+-   [Domains within Tauri](governance-model/Domains.md)
