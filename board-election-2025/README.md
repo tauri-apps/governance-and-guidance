@@ -15,8 +15,10 @@ We are **inviting Working Group members** to cast their vote on which candidates
 | ----------- | :---------: | -------------: | --------: |
 | Jacob Bolda | **Pending** |              - |         - |
 
-- _Raw votes: [`votes.ndjson`](./votes.ndjson)_
-- _Review: https://github.com/tauri-apps/governance-and-guidance/pull/57_
+-   _Raw votes: pending_
+-   _Review: pending_
+
+<!-- TODO: this is all pending applications.
 
 Taking as reference, currently X people have the Discord `working-group` role.
 A X turnout for the vote based on that number.
@@ -24,6 +26,8 @@ A X turnout for the vote based on that number.
 The official end of term for the current Directors is _on July 16th_. Both candidates are uncumbants who have already signed [the Pledge][tcc-plege].
 
 [tcc-plege]: https://dracc.commonsconservancy.org/0016/
+
+-->
 
 ## Dates
 
@@ -33,7 +37,7 @@ Results: on or before July 16, 2025
 
 ## Candidates
 
-- [Jacob Bolda][jacob-bolda] - _Candidate for a third term._
+-   [Jacob Bolda][jacob-bolda] - _Candidate for a third term._
 
 [jacob-bolda]: Candidates.md#jacob-bolda "Candidates.md - Jacob Bolda"
 
@@ -54,6 +58,8 @@ In other words candidates will not be appointed "by default" to fill as many sea
 
 ### How does voting work?
 
+<!-- TODO: update based on candidate numbers -->
+
 In this election we have 5 seats available and X candidates. For each candidate voters indicate whether they're for or against that candidate becoming a Board Director. Each candidate needs to meet a "confidence threshold", meaning at least (`>=`) 50% of voters have voted _"Yes"_ for that candidate.
 
 You can use the voting tool that lets you drag and drop candidates to create your vote.
@@ -67,7 +73,10 @@ As per [Tauri's statutes][statutes-governance]:
 
 ### What about order of preference?
 
-This year the election happens to have 5 seats and 5 candidates. So only confidence needs to be considered.
+<!-- TODO: update based on candidate numbers -->
+
+In case there are _more candidates than seats_ your vote should be ordered by preference.
+Otherwise the order does not matter and only the confidence threshold is used.
 
 You may have encountered technical discussions talking about ordering by preference and using this to select the most preferred candidates. That aspect of the voting system is intended to handle a situation where there are _more candidates than seats_. Because we know that is not the case for this election, sorting by preference becomes unnecessary.
 
