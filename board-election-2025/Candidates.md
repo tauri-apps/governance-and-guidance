@@ -25,7 +25,7 @@ Basically **I would prefer to help out as part of the working group going forwar
 
 Around 2021 I first got involved with Tauri all the groundwork had to be laid, which **required a lot of direct involvement** from the Tauri Board. Nowadays this work is largely done and the Board can concentrate on making key decisions, rather than setting up new structures.
 
-CrabNebula also sponsored a great amount of the time I spent to help lay this groundwork. Today I spend less time directly contributing to Tauri and more time on _services for Tauri users_ like [CrabNebula Cloud](https://crabnebula.dev/cloud/) and [Taurify](https://crabnebula.dev/taurify/)'s build infrastructure.
+CrabNebula also sponsored a great amount of the time I spent to help lay this groundwork. Today I spend less time directly contributing to Tauri and more time on _services for Tauri users_ like [CrabNebula Cloud][cn-cloud] and [Taurify]'s build infrastructure.
 
 So I believe it would serve the Tauri community better to pass the baton to a new director. My hope is to see directors who are either more directly involved with the community and/or represents an additional company who is invested in Tauri.
 
@@ -34,3 +34,5 @@ That said I still have strong open-source values and believe I've gained a lot o
 [github-beanow]: https://github.com/beanow "Beanow - GitHub"
 [CrabNebula]: https://crabnebula.dev "CrabNebula"
 [cn-partnership]: https://tauri.app/blog/partnership-crabnebula/ "Strengthening Tauri: Our Partnership with CrabNebula"
+[cn-cloud]: https://crabnebula.dev/cloud/ "CrabNebula Cloud"
+[Taurify]: https://crabnebula.dev/taurify/ "Taurify - CrabNebula"
