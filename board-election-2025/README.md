@@ -78,7 +78,11 @@ As per [Tauri's statutes][statutes-governance]:
 In case there are _more candidates than seats_ your vote should be ordered by preference.
 Otherwise the order does not matter and only the confidence threshold is used.
 
-You may have encountered technical discussions talking about ordering by preference and using this to select the most preferred candidates. That aspect of the voting system is intended to handle a situation where there are _more candidates than seats_. Because we know that is not the case for this election, sorting by preference becomes unnecessary.
+You may have encountered technical discussions talking about ordering by preference and using this to select the most preferred candidates. That aspect of the voting system is intended to handle a situation where there are _more candidates than seats_.
+
+<!-- TODO: update based on candidate numbers
+Because we know that is not the case for this election, sorting by preference becomes unnecessary.
+-->
 
 [discord-general-wg]: https://discord.com/channels/616186924390023171/631158878108909588
 [statutes-governance]: https://dracc.commonsconservancy.org/0035/#governance "Statutes of Tauri - Governance"
