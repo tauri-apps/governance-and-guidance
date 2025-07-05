@@ -14,6 +14,7 @@ We are **inviting Working Group members** to cast their vote on which candidates
 | Name        |   Elected   | Positive votes | Threshold |
 | ----------- | :---------: | -------------: | --------: |
 | Jacob Bolda | **Pending** |              - |         - |
+| Bill Avery  | **Pending** |              - |         - |
 
 -   _Raw votes: pending_
 -   _Review: pending_
@@ -38,8 +39,11 @@ Results: on or before July 16, 2025
 ## Candidates
 
 -   [Jacob Bolda][jacob-bolda] - _Candidate for a third term._
+-   [Bill Avery][bill-avery] - _Candidate for a second term._
 
 [jacob-bolda]: Candidates.md#jacob-bolda "Candidates.md - Jacob Bolda"
+[bill-avery]: Candidates.md#bill-avery "Candidates.md - Bill Avery"
+
 
 ## More information
 
