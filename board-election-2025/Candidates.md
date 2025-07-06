@@ -23,3 +23,9 @@ In 2021, I was looking into cross-platform WebView libraries, and simultaneously
 Lately I've been working on auto-generated Rust bindings for [CEF](https://github.com/chromiumembedded/cef) (Chromium Embedded Framework) in [cef-rs](https://gitub.com/tauri-apps/cef-rs). Besides enriching the Rust ecosystem in general, my specific goal for this project is to integrate it with Tauri, potentially as an optional backend for [WRY](https://github.com/tauri-apps/wry). I want to close the performance and Chromium compatibility gap on macOS and Linux, where developers sometimes have no choice but to use Electron instead of Tauri. To be clear, continued work on this project doesn't depend on getting reelected to the board, I'm just mentioning it for familiarity with my work.
 
 [github-wravery]: https://github.com/wravery "Bill Avery - GitHub"
+
+## Chip
+
+_Candidacy announced, writing introduction._
+
+https://github.com/chippers
