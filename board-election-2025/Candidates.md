@@ -24,8 +24,12 @@ Lately I've been working on auto-generated Rust bindings for [CEF](https://githu
 
 [github-wravery]: https://github.com/wravery "Bill Avery - GitHub"
 
-## Chip
+## Chip Reed
 
-_Candidacy announced, writing introduction._
+Hi, I'm Chip ([@chippers][github-chippers]). I've been contributing to Tauri for over five years and am one of two members of Tauri's security team.
 
-https://github.com/chippers
+My interest in becoming a board member is to upkeep transparency and good relations that we have had with our developers (Working Group) over the years. I have been a part of internal audits of Tauri feature releases and a responding developer for both external audits of Tauri v1 & v2. As a user of Tauri, you may have used things I have developed such as the API for Tauri Commands which was created during the v1 audit.
+
+I have always been interested in Tauri from a technical aspect. Now I want to be more involved in the governance to upkeep current and future good working relationships with developers. My current ongoing work on Tauri focuses on improving developer experience, such as experimental hot-reloading.
+
+[github-chippers]: https://github.com/chippers "Chip Reed- GitHub"
