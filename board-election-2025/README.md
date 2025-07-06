@@ -15,6 +15,7 @@ We are **inviting Working Group members** to cast their vote on which candidates
 | ----------- | :---------: | -------------: | --------: |
 | Jacob Bolda | **Pending** |              - |         - |
 | Bill Avery  | **Pending** |              - |         - |
+| Chip Reed   | **Pending** |              - |         - |
 
 -   _Raw votes: pending_
 -   _Review: pending_
@@ -40,10 +41,11 @@ Results: on or before July 16, 2025
 
 -   [Jacob Bolda][jacob-bolda] - _Candidate for a third term._
 -   [Bill Avery][bill-avery] - _Candidate for a second term._
+-   [Chip Reed][chip-reed] - _New candidate._
 
 [jacob-bolda]: Candidates.md#jacob-bolda "Candidates.md - Jacob Bolda"
 [bill-avery]: Candidates.md#bill-avery "Candidates.md - Bill Avery"
-
+[chip-reed]: Candidates.md#chip-reed "Candidates.md - Chip Reed"
 
 ## More information
 

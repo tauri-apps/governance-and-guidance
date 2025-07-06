@@ -23,3 +23,13 @@ In 2021, I was looking into cross-platform WebView libraries, and simultaneously
 Lately I've been working on auto-generated Rust bindings for [CEF](https://github.com/chromiumembedded/cef) (Chromium Embedded Framework) in [cef-rs](https://gitub.com/tauri-apps/cef-rs). Besides enriching the Rust ecosystem in general, my specific goal for this project is to integrate it with Tauri, potentially as an optional backend for [WRY](https://github.com/tauri-apps/wry). I want to close the performance and Chromium compatibility gap on macOS and Linux, where developers sometimes have no choice but to use Electron instead of Tauri. To be clear, continued work on this project doesn't depend on getting reelected to the board, I'm just mentioning it for familiarity with my work.
 
 [github-wravery]: https://github.com/wravery "Bill Avery - GitHub"
+
+## Chip Reed
+
+Hi, I'm Chip ([@chippers][github-chippers]). I've been contributing to Tauri for over five years and am one of two members of Tauri's security team.
+
+My interest in becoming a board member is to upkeep transparency and good relations that we have had with our developers (Working Group) over the years. I have been a part of internal audits of Tauri feature releases and a responding developer for both external audits of Tauri v1 & v2. As a user of Tauri, you may have used things I have developed such as the API for Tauri Commands which was created during the v1 audit.
+
+I have always been interested in Tauri from a technical aspect. Now I want to be more involved in the governance to upkeep current and future good working relationships with developers. My current ongoing work on Tauri focuses on improving developer experience, such as experimental hot-reloading.
+
+[github-chippers]: https://github.com/chippers "Chip Reed- GitHub"
