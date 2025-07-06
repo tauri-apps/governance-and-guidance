@@ -33,3 +33,9 @@ My interest in becoming a board member is to upkeep transparency and good relati
 I have always been interested in Tauri from a technical aspect. Now I want to be more involved in the governance to upkeep current and future good working relationships with developers. My current ongoing work on Tauri focuses on improving developer experience, such as experimental hot-reloading.
 
 [github-chippers]: https://github.com/chippers "Chip Reed- GitHub"
+
+## Fabian-Lars
+
+_Candidacy announced, writing introduction._
+
+https://github.com/FabianLars
