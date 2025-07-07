@@ -20,9 +20,27 @@ I work at Microsoft, originally in primarily in C++ codebases, but over the last
 
 In 2021, I was looking into cross-platform WebView libraries, and simultaneously I discovered the [windows](https://github.com/microsoft/windows-rs) crate and the cross-platform Rust WebView bindings which later became [WRY](https://github.com/tauri-apps/wry). I figured Microsoft was missing an opportunity to define first class Rust bindings to the new WebView2 control on Windows, so I decided to try putting these projects together. The result was https://github.com/wravery/webview2-rs, along with a few PRs to WRY and TAO to perform an initial port from the hand-coded winapi crate to auto-generated first-party bindings using windows-rs.
 
-Lately I've been working on auto-generated Rust bindings for [CEF](https://github.com/chromiumembedded/cef) (Chromium Embedded Framework) in [cef-rs](https://gitub.com/tauri-apps/cef-rs). Besides enriching the Rust ecosystem in general, my specific goal for this project is to integrate it with Tauri, potentially as an optional backend for [WRY](https://github.com/tauri-apps/wry). I want to close the performance and Chromium compatibility gap on macOS and Linux, where developers sometimes have no choice but to use Electron instead of Tauri. To be clear, continued work on this project doesn't depend on getting reelected to the board, I'm just mentioning it for familiarity with my work.
+Lately I've been working on auto-generated Rust bindings for [CEF](https://github.com/chromiumembedded/cef) (Chromium Embedded Framework) in [cef-rs](https://github.com/tauri-apps/cef-rs). Besides enriching the Rust ecosystem in general, my specific goal for this project is to integrate it with Tauri, potentially as an optional backend for [WRY](https://github.com/tauri-apps/wry). I want to close the performance and Chromium compatibility gap on macOS and Linux, where developers sometimes have no choice but to use Electron instead of Tauri. To be clear, continued work on this project doesn't depend on getting reelected to the board, I'm just mentioning it for familiarity with my work.
 
 [github-wravery]: https://github.com/wravery "Bill Avery - GitHub"
+
+## Chip Reed
+
+Hi, I'm Chip ([@chippers][github-chippers]). I've been contributing to Tauri for over five years and am one of two members of Tauri's security team.
+
+My interest in becoming a board member is to upkeep transparency and good relations that we have had with our developers (Working Group) over the years. I have been a part of internal audits of Tauri feature releases and a responding developer for both external audits of Tauri v1 & v2. As a user of Tauri, you may have used things I have developed such as the API for Tauri Commands which was created during the v1 audit.
+
+I have always been interested in Tauri from a technical aspect. Now I want to be more involved in the governance to upkeep current and future good working relationships with developers. My current ongoing work on Tauri focuses on improving developer experience, such as experimental hot-reloading.
+
+[github-chippers]: https://github.com/chippers "Chip Reed - GitHub"
+
+## Fabian-Lars
+
+Hey, I am Fabian-Lars ([@FabianLars][github-fabianlars]). I've been part of the working group for 4 years now where i mainly focused on support and community relations and later also became one of the current main maintainers of multiple of our repositories. Currently i spend most of my Tauri time working through all the community PRs that have been open for a long time. Besides that, i also focus a bit on becoming (or being) our main macOS maintainer since it's hard to find those.
+
+I'd like to join the board because i believe my strong connection to the community and experience in helping developers troubleshoot will offer a valuable perspective for discussions and decisions around Tauri's direction. Having overworked myself in Tauri-land in the past, i'd also have a special focus on the maintainers and contributors well-being.
+
+[github-fabianlars]: https://github.com/FabianLars "Fabian-Lars - GitHub"
 
 # Reserve candidates
 
