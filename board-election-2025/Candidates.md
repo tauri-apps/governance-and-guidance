@@ -36,8 +36,8 @@ I have always been interested in Tauri from a technical aspect. Now I want to be
 
 ## Fabian-Lars
 
-Hey, I am Fabian-Lars ([@FabianLars][github-fabianlars]). I've been part of the working group for 4 years now where i mainly focused on support and community relations and later also became one of the current main maintainers of multiple of our repositories. Currently i spend most of my Tauri time working through all the community PRs that have been open for a long time. Besides that, i also focus a bit on becoming (or being) our main macOS maintainer since it's hard to find those.
+Hey, I am Fabian-Lars ([@FabianLars][github-fabianlars]). I've been part of the working group for 4 years now where I mainly focused on support and community relations and later also became one of the current main maintainers of multiple of our repositories. Currently I spend most of my Tauri time working through all the community PRs that have been open for a long time. Besides that, I also focus a bit on becoming (or being) our main macOS maintainer since it's hard to find those.
 
-I'd like to join the board because i believe my strong connection to the community and experience in helping developers troubleshoot will offer a valuable perspective for discussions and decisions around Tauri's direction. Having overworked myself in Tauri-land in the past, i'd also have a special focus on the maintainers and contributors well-being.
+I'd like to join the board because I believe my strong connection to the community and experience in helping developers troubleshoot will offer a valuable perspective for discussions and decisions around Tauri's direction. Having overworked myself in Tauri-land in the past, I'd also have a special focus on the maintainers and contributors well-being.
 
 [github-fabianlars]: https://github.com/FabianLars "Fabian-Lars - GitHub"
