@@ -21,7 +21,7 @@ We received **15 votes**. Meaning `>= 8` votes is the confidence threshold.
 | Fabian-Lars | **Yes** |             14 |         8 |
 
 - _Raw votes: [`votes.ndjson`](./votes.ndjson)_
-- _Review: pending_
+- _Review: https://github.com/tauri-apps/governance-and-guidance/pull/67_
 
 Taking as reference, currently 48 people (and 1 bot) have the Discord `working-group` role.
 A ~31% turnout for the vote based on that number.
