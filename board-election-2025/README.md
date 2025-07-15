@@ -9,28 +9,26 @@ We are **inviting Working Group members** to cast their vote on which candidates
 
 ## Election Result
 
-**Pending**
+**All candidates met the threshold and were elected!** 🎉
 
-| Name        |   Elected   | Positive votes | Threshold |
-| ----------- | :---------: | -------------: | --------: |
-| Jacob Bolda | **Pending** |              - |         - |
-| Bill Avery  | **Pending** |              - |         - |
-| Chip Reed   | **Pending** |              - |         - |
-| Fabian-Lars | **Pending** |              - |         - |
+We received **15 votes**. Meaning `>= 8` votes is the confidence threshold.
 
-- _Raw votes: pending_
+| Name        | Elected | Positive votes | Threshold |
+| ----------- | :-----: | -------------: | --------: |
+| Jacob Bolda | **Yes** |             15 |         8 |
+| Chip Reed   | **Yes** |             15 |         8 |
+| Bill Avery  | **Yes** |             14 |         8 |
+| Fabian-Lars | **Yes** |             14 |         8 |
+
+- _Raw votes: [`votes.ndjson`](./votes.ndjson)_
 - _Review: pending_
 
-<!-- TODO: this is all pending vote result.
-
-Taking as reference, currently X people have the Discord `working-group` role.
-A X turnout for the vote based on that number.
+Taking as reference, currently 48 people (and 1 bot) have the Discord `working-group` role.
+A ~31% turnout for the vote based on that number.
 
 The official end of term for the current Directors is _on July 16th_. After this and after making sure they've signed [the Pledge][tcc-plege] the new Directors can take office.
 
 [tcc-plege]: https://dracc.commonsconservancy.org/0016/
-
--->
 
 ## Dates
 
