@@ -1,6 +1,6 @@
 # Governance and Guidance
 
-## Current: [Tauri Board Election 2025](board-election-2025/README.md)
+## Current: [Tauri Board Election 2026](board-election-2026/README.md)
 
 ## Documents
 
