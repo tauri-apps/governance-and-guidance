@@ -7,25 +7,21 @@ We are **inviting Working Group members** to cast their vote on which candidates
 
 **Places you can reach out: [`#general-wg`][discord-general-wg]**
 
-## Election Result (Pending)
+## Election Result
 
-<!-- **All candidates met the threshold and were elected!** 🎉 
+**All candidates met the threshold and were elected!** 🎉 
 
-We received **14 votes**, all positive for both candidates. -->
+We received **12 votes**, all positive for both candidates.
 
 | Name                   | Elected | Positive votes |
 | ---------------------- | :-----: | -------------: |
-| Daniel Thompson-Yvetot | **Yes** |             x |
-| Lucas Nogueira         | **Yes** |             x |
+| Daniel Thompson-Yvetot | **Yes** |             12 |
+| Lucas Nogueira         | **Yes** |             12 |
 
 - _Raw votes: [`votes.ndjson`](./votes.ndjson)_
-- _Review: https://github.com/tauri-apps/governance-and-guidance/pull/68_
+- _Review: https://github.com/tauri-apps/governance-and-guidance/pull/69_
 
-<!--
-Taking as reference, currently 50 people (and 1 bot) have the Discord `working-group` role.
-A 28% turnout for the vote based on that number. -->
-
-The official end of term for the current Directors is _on July 16th_. Both candidates are uncumbants who have already signed [the Pledge][tcc-plege].
+The official end of term for the current Directors is _on July 16th_. Both candidates are incumbants who have already signed [the Pledge][tcc-plege].
 
 [tcc-plege]: https://dracc.commonsconservancy.org/0016/
 
